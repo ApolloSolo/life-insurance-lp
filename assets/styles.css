@@ -15,6 +15,7 @@ html {
 
 
 body {
+    height: 100vh;
     min-height: -webkit-fill-available;
     background-image: linear-gradient(rgba(58, 114, 255, 0.3),
             rgba(18, 18, 18, 0.6),
